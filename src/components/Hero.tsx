@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Star, Users, ChefHat, CheckCircle, ArrowRight } from 'lucide-react';
 
 const slides = [

@@ -1,4 +1,3 @@
-import React from 'react';
 import { MapPin, Phone, Mail, Clock, Lock } from 'lucide-react';
 
 const Footer = ({ onOpenPOS }: { onOpenPOS: () => void }) => {

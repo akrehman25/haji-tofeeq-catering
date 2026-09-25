@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Flame, Info, ShoppingCart } from 'lucide-react';
+import { useState } from 'react';
+import { Flame, ShoppingCart } from 'lucide-react';
 
 const categories = ['All', 'Degi Biryani & Pulao', 'Karahi & Qorma', 'BBQ & Starters', 'Desserts / Meetha'];
 
